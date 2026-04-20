@@ -4,8 +4,11 @@ I'm an AI/ML Engineer based in Atlanta, GA, focused on building end-to-end machi
 🔧 What I work with
 
 Languages: Python, SQL
+
 ML & Data: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+
 AI & LLMs: Prompt Engineering, LLM Evaluation, Generative AI, Agentic AI Concepts
+
 Tools: Jupyter Notebook, Git, AWS (Foundational)
 
 🎓 Education
