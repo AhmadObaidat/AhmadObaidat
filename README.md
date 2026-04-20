@@ -1,7 +1,7 @@
 Hi, I'm Ahmad 👋
 I'm an AI/ML Engineer based in Atlanta, GA, focused on building end-to-end machine learning pipelines, evaluation workflows, and applied AI systems.
-🔧 What I work with
 
+🔧 What I work with
 Languages: Python, SQL
 ML & Data: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 AI & LLMs: Prompt Engineering, LLM Evaluation, Generative AI, Agentic AI Concepts
