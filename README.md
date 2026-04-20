@@ -13,7 +13,7 @@ Tools: Jupyter Notebook, Git, AWS (Foundational)
 
 🎓 Education
 
-MS in Computer Science – AI Concentration (In Progress) — Westcliff University
+MS in Computer Science – Artificial intelligence (AI) - (In Progress) — Westcliff University
 
 MS in Information Technology – Emerging Technologies — Westcliff University
 
