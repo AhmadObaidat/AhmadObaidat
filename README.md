@@ -24,4 +24,5 @@ Exploring LLM behavior analysis and prompt optimization
 Developing reproducible, well-documented ML projects
 
 📫 Let's connect
-LinkedIn •linkedin.com/in/ahmad-obaidat/
+LinkedIn linkedin.com/in/ahmad-obaidat/
+Email a_obaidat@outlook.com
