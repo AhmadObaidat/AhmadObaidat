@@ -13,7 +13,7 @@ Tools: Jupyter Notebook, Git, AWS (Foundational)
 
 🎓 Education
 
-MS in Computer Science – Artificial intelligence (In Progress) — Westcliff University
+MS in Computer Science – Artificial intelligence — Westcliff University
 
 MS in Information Technology – Emerging Technologies — Westcliff University
 
@@ -24,5 +24,4 @@ Exploring LLM behavior analysis and prompt optimization
 Developing reproducible, well-documented ML projects
 
 📫 Let's connect
-LinkedIn linkedin.com/in/ahmad-obaidat/
-Email a_obaidat@outlook.com
+ a_obaidat@outlook.com
